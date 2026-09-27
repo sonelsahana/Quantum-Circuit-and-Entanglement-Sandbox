@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Circuit & Entanglement Sandbox",
+  "description": "Interactive node-based quantum circuit builder with React Flow, 3D Bloch sphere visualizer, 1,000-shot Monte Carlo histogram simulator, and CTF-style quantum challenge mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
